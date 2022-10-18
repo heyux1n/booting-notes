@@ -1,6 +1,6 @@
 # Win11下安装Docker Desktop
 
-![img](docker-cover.png)
+![img](assets/docker-cover.png)
 
 ## 1 前置条件
 
@@ -18,9 +18,9 @@
 
 > Hyper-V: 提供一些帮助创建和运行虚拟机及其他资源的服务和管理工具
 
-![image-20221015123705058](image-20221015123705058.png)
+![image-20221015123705058](assets/image-20221015123705058.png)
 
-![image-20221015124119818](image-20221015124119818.png)
+![image-20221015124119818](assets/image-20221015124119818.png)
 
 
 
@@ -42,7 +42,7 @@
 
 ### 1.4 配置doker国内镜像
 
-![image-20221015124525895](image-20221015124525895.png)
+![image-20221015124525895](assets/image-20221015124525895.png)
 
 
 

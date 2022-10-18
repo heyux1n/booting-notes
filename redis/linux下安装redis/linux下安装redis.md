@@ -1,6 +1,6 @@
 # linux下安装redis
 
-![image-20221015135828164](image-20221015135828164.png)
+![image-20221015135828164](assets/image-20221015135828164.png)
 
 ## 1 安装redis
 
@@ -56,7 +56,7 @@ make && make install
 
 此时会在`/usr/local/bin`下可以看到redis相关的执行文件，此时redis已经安装完成
 
-![image-20221015131520650](image-20221015131520650.png)
+![image-20221015131520650](assets/image-20221015131520650.png)
 
 
 
@@ -68,7 +68,7 @@ make && make install
 
 下图所示已启动成功
 
-![image-20221015132150828](image-20221015132150828.png)
+![image-20221015132150828](assets/image-20221015132150828.png)
 
 
 
