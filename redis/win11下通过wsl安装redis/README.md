@@ -2,7 +2,7 @@
 
 在windows下安装redis，官方推荐通过wsl的方式安装redis。所以需要在windows下配置好wsl。
 
-[redis官网推荐方式]([Install Redis on Windows | Redis](https://redis.io/docs/getting-started/installation/install-redis-on-windows/))
+[Install Redis on Windows | Redis](https://redis.io/docs/getting-started/installation/install-redis-on-windows/)
 
 ## 1 安装redis
 
