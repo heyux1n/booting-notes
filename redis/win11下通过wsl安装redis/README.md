@@ -81,12 +81,12 @@ chmod +x /etc/init.wsl
 
 ![image-20221022162344353](assets/image-20221022162344353.png)
 
-![image-20221022192904085](assets/image-20221022192904085.png)
+![image-20221024095438209](assets/image-20221024095438209.png)
 
 
 ```shell
 // 计划任务操作中添加参数
-wsl -d ubuntu -u root /etc/init.wsl
+-u root /etc/init.wsl
 ```
 
 
